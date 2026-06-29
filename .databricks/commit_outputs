@@ -1,3 +1,6 @@
+#My comment: To exclude cell outputs from commits, open the notebook, go to File > Commit notebook outputs,
+# and ensure it is toggled off, or configure the generated .databricks/commit_outputs file.
+# Workspace administrators can also block .ipynb outputs globally by going to Admin settings > Workspace settings > Git folders and toggling off "Allow Git folders to Export IPYNB outputs"
 
 # .databricks/commit_outputs file is used to control whether a notebook's output should be included when committing changes to Git.
 # Outputs are included/excluded at a per notebook level, committing select outputs within a specific notebook is not feasible.
