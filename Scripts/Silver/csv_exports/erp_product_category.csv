@@ -1,0 +1,38 @@
+category_id,category,subcategory,maintenance_flag
+AC_BR,Accessories,Bike Racks,True
+AC_BS,Accessories,Bike Stands,False
+AC_BC,Accessories,Bottles and Cages,False
+AC_CL,Accessories,Cleaners,True
+AC_FE,Accessories,Fenders,False
+AC_HE,Accessories,Helmets,True
+AC_HP,Accessories,Hydration Packs,False
+AC_LI,Accessories,Lights,True
+AC_LO,Accessories,Locks,True
+AC_PA,Accessories,Panniers,False
+AC_PU,Accessories,Pumps,True
+AC_TT,Accessories,Tires and Tubes,True
+BI_MB,Bikes,Mountain Bikes,True
+BI_RB,Bikes,Road Bikes,True
+BI_TB,Bikes,Touring Bikes,True
+CL_BS,Clothing,Bib-Shorts,False
+CL_CA,Clothing,Caps,False
+CL_GL,Clothing,Gloves,False
+CL_JE,Clothing,Jerseys,False
+CL_SH,Clothing,Shorts,False
+CL_SO,Clothing,Socks,False
+CL_TI,Clothing,Tights,False
+CL_VE,Clothing,Vests,False
+CO_BB,Components,Bottom Brackets,True
+CO_BR,Components,Brakes,True
+CO_CH,Components,Chains,True
+CO_CS,Components,Cranksets,True
+CO_DE,Components,Derailleurs,True
+CO_FO,Components,Forks,True
+CO_HB,Components,Handlebars,False
+CO_HS,Components,Headsets,False
+CO_MF,Components,Mountain Frames,True
+CO_PD,Components,Pedals,False
+CO_RF,Components,Road Frames,True
+CO_SA,Components,Saddles,False
+CO_TF,Components,Touring Frames,True
+CO_WH,Components,Wheels,True
